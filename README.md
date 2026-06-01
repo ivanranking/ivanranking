@@ -3,7 +3,7 @@
 - 
 - 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on python and backend development
-- 📫 How to reach me;you can reach me on email:ivanranking055@gmail.com or you can whatsapp me or as well reach me on telegram on +256780809632
+- 📫 How to reach me;you can reach me on email:ivanranking055@gmail.com or you can whatsapp me or as well reach me on telegram on +256794183111
 - 😄 Pronouns: coding feet
 - ⚡ Fun fact: likes coding and also python
 
